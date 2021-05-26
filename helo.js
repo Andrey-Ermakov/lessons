@@ -7,7 +7,7 @@ function chec(abc)
 }
 let c = 10
 
-
+//dsasddas
 
 chec (a)
 chec (c)
